@@ -1,0 +1,19 @@
+#include "main.h"
+/**
+ *Printing alphabets -Print lowercase alphabets using putchar
+ *
+ *return 0
+ */
+
+void print_alphabet(void)
+{
+	char alpha;
+	alpha = 'a';
+
+	while(alpha <= 'z')
+	{
+		_putchar(alpha);
+		alpha++;
+	}
+	_putchar('\n');
+}
