@@ -1,1 +1,1 @@
-This is a readme file for the variables project
+This is a readme file for the project pointers, arrays and strings
